@@ -68,4 +68,14 @@ h2 {
     color: grey;
     display: block;
     margin-top: 10px;
+    font-size: 14px;
+}
+
+.links-list li a.active {
+    box-shadow: 0 0 20px white;
+    color: rgb(54,77,204);
+}
+
+.links-list.second {
+    margin-top: 30px;
 }
